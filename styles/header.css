@@ -14,3 +14,11 @@
 .container_botao:chekcked~.container_rotulo{
   background: var(--azul-degrade);
 }
+
+.cabeçalho{
+  background-color: var(--branco);
+  display: fleux;
+  justy-content: space-between;
+  aling-items: center;
+  position: relative;
+}
