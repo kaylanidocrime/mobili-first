@@ -22,3 +22,12 @@
   aling-items: center;
   position: relative;
 }
+
+.container{
+  diplay: flex;
+  aling-items: center;
+}
+
+.container__imagem{
+  pading: 1em;
+}
