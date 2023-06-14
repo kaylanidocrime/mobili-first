@@ -5,4 +5,9 @@
 
 .contato_titulo,
 .contato_texto{
-  background:
+  background: var(--azul)
+  -wbkit-background-clip:text;
+  webkit-tet-fill-color:transparent;
+  background-clip: text;
+}
+
