@@ -10,3 +10,19 @@ hr{
 .lista-rodapé{
   display: none; 
 }
+
+@media screen and (min-width: 1024px) {
+ .rodapé {
+  display: flex;
+  justify-content: space-around;
+} 
+
+.lista-rodapé{ 
+  diplay: block;
+}  
+  
+.lista-rodapé__item{
+  display:flex;
+  align-items: center;
+  margin: 0.6em 0;
+}
